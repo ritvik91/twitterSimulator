@@ -1,5 +1,8 @@
-# Twitterproject
+# Twitter Simulation
 
+Developed a distributed twitter simulation engine that allowed multiple nodes to parallelly tweet, retweet and follow, following a zipf distribution. The engine was tested with 5000 nodes working at 85% CPU efficiency. 
+
+## Init 
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
@@ -9,7 +12,6 @@ To start your Phoenix server:
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
-Ready to run in production? Please [check our deployment guides](http://www.phoenixframework.org/docs/deployment).
 
 ## Learn more
 
